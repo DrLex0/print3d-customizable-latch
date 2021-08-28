@@ -6,7 +6,7 @@
 
 ### Gallery
 
-![Photo 1](thumbs/photo1.jpg)[🔎](images/photo1.jpg) ![Photo 2](thumbs/photo2.jpg)[🔎](images/photo2.jpg) ![Photo 3](thumbs/photo3.jpg)[🔎](images/photo3.jpg) ![Photo 3](thumbs/photo4.jpg)[🔎](images/photo4.jpg) ![Photo 3](thumbs/photo5.jpg)[🔎](images/photo5.jpg)
+![Photo 1](thumbs/photo1.jpg)[🔎](images/photo1.jpg) ![Photo 2](thumbs/photo2.jpg)[🔎](images/photo2.jpg) ![Photo 3](thumbs/photo3.jpg)[🔎](images/photo3.jpg) ![Photo 4](thumbs/photo4.jpg)[🔎](images/photo4.jpg) ![Photo 5](thumbs/photo5.jpg)[🔎](images/photo5.jpg)
 
 
 ## Description and Instructions
